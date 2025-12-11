@@ -57,21 +57,6 @@ These features strengthen model learning and improve accuracy.
 Final engineered dataset saved as:  
 `visa_dataset_feature_engineered.csv`
 
-## Repository Structure
-data/
-│
-├── visa_dataset.csv
-|
-├── visa_dataset_feature_engineered.csv
-|
-├── Milestone_1.ipynb
-|
-├── Milestone_2.ipynb
-|
-├── visa_preprocessor.pkl
-|
-└── README.md
-
 ## Technologies Used
 - Python 3  
 - Pandas, NumPy  

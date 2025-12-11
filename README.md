@@ -67,7 +67,6 @@ data/
 ├── visa_preprocessor.pkl
 └── README.md
 
-
 ## Technologies Used
 - Python 3  
 - Pandas, NumPy  
@@ -75,11 +74,9 @@ data/
 - Scikit-Learn  
 
 ## License
-MIT License
+**MIT License**
 
 ## Author
-Swaathi B
-
-GitHub: Swaathi1409
+**Swaathi B (GitHub: Swaathi1409)**
 
 

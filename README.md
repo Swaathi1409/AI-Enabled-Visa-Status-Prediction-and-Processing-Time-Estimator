@@ -61,10 +61,15 @@ Final engineered dataset saved as:
 data/
 │
 ├── visa_dataset.csv
+|
 ├── visa_dataset_feature_engineered.csv
+|
 ├── Milestone_1.ipynb
+|
 ├── Milestone_2.ipynb
+|
 ├── visa_preprocessor.pkl
+|
 └── README.md
 
 ## Technologies Used

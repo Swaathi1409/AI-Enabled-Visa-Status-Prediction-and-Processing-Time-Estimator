@@ -59,13 +59,13 @@ Final engineered dataset saved as:
 
 ## Repository Structure
 data/
-|
-|-visa_dataset.csv
-|-visa_dataset_feature_engineered.csv
-|-Milestone_1.ipynb
-|-Milestone_2.ipynb
-|-README.md
-|-visa_preprocessor.pkl
+│
+├── visa_dataset.csv
+├── visa_dataset_feature_engineered.csv
+├── Milestone_1.ipynb
+├── Milestone_2.ipynb
+├── visa_preprocessor.pkl
+└── README.md
 
 
 ## Technologies Used
@@ -79,6 +79,7 @@ MIT License
 
 ## Author
 Swaathi B
+
 GitHub: Swaathi1409
 
 

@@ -12,7 +12,7 @@ A unified multi-country dataset is engineered, processed, modeled, and deployed 
 
 ---
 
-# ✅ Milestone 1 — Dataset Creation & Preprocessing
+## Milestone 1 — Dataset Creation & Preprocessing
 - Consolidated visa data from multiple countries into a single dataset.
 - Cleaned and standardized column names, formats, and values.
 - Extracted date-based features:
@@ -32,7 +32,7 @@ A unified multi-country dataset is engineered, processed, modeled, and deployed 
 
 ---
 
-# ✅ Milestone 2 — Exploratory Data Analysis (EDA)
+## Milestone 2 — Exploratory Data Analysis (EDA)
 Performed data exploration using histograms, boxplots, and correlation heatmaps.
 
 ### Distribution Insights
@@ -70,7 +70,7 @@ Final engineered dataset saved as:
 
 ---
 
-# ✅ Milestone 3 — Regression Model Development & Training
+## Milestone 3 — Regression Model Development & Training
 
 ### Algorithms Evaluated
 - Linear Regression  
@@ -88,7 +88,7 @@ The best-performing regression model saved as:
 
 ---
 
-# ✅ Milestone 4 — Deployment (Streamlit Application)
+## Milestone 4 — Deployment (Streamlit Application)
 
 ### Features of the Streamlit App
 - Accepts visa application details from user input  

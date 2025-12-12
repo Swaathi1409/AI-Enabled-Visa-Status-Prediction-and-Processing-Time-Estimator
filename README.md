@@ -114,7 +114,7 @@ https://ai-visa-status-prediction-and-processing-time-estimator.streamlit.app/
 
 <img width="1166" height="670" alt="image" src="https://github.com/user-attachments/assets/ea55694c-df71-4f12-8312-6adc751b3e7e" />
 
-<img width="1026" height="623" alt="image" src="https://github.com/user-attachments/assets/7f54cad1-f705-4adb-b761-168bc1411624" />
+<img width="1020" height="623" alt="image" src="https://github.com/user-attachments/assets/7f54cad1-f705-4adb-b761-168bc1411624" />
 
 ---
 

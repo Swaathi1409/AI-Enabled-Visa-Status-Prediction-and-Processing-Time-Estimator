@@ -50,7 +50,7 @@ Performed data exploration using histograms, boxplots, and correlation heatmaps.
 
 ---
 
-# Feature Engineering
+## Feature Engineering
 Added ML-optimized features to improve model accuracy:
 
 - **Season_Index**  
@@ -110,7 +110,7 @@ https://ai-visa-status-prediction-and-processing-time-estimator.streamlit.app/
 
 ---
 
-# Technologies Used
+## Technologies Used
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
@@ -120,11 +120,11 @@ https://ai-visa-status-prediction-and-processing-time-estimator.streamlit.app/
 
 ---
 
-# License
+## License
 MIT License
 
 ---
 
-# Author
+## Author
 **Swaathi B**  
 GitHub: **Swaathi1409**

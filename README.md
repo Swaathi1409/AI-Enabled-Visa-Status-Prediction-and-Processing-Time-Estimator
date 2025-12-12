@@ -112,9 +112,9 @@ https://ai-visa-status-prediction-and-processing-time-estimator.streamlit.app/
 
 ## Screenshots
 
-<img width="1100" height="670" alt="image" src="https://github.com/user-attachments/assets/ea55694c-df71-4f12-8312-6adc751b3e7e" />
+<img width="689" height="614" alt="image" src="https://github.com/user-attachments/assets/6dc423db-9630-435b-b5e5-fba2aab22657" />
 
-<img width="1010" height="623" alt="image" src="https://github.com/user-attachments/assets/7f54cad1-f705-4adb-b761-168bc1411624" />
+<img width="681" height="569" alt="image" src="https://github.com/user-attachments/assets/d3b73911-c547-44af-ab59-7b08ab4c84a4" />
 
 ---
 

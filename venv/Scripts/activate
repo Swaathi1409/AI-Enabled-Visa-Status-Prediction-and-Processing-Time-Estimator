@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Admin\Downloads\Infosys\venv"
+VIRTUAL_ENV="C:\Users\Admin\Documents\GitHub\AI-Enabled-Visa-Status-Prediction-and-Processing-Time-Estimator\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
